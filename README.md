@@ -1,7 +1,7 @@
 # Sobre mim.
 Meu nome é Sophia e atualmente sou aluna do Instituto Federal de São Paulo, no segundo ano do curso de Desenvolvimento de Sistemas integrado ao Ensino Médio. No último ano, aprimorei meus conhecimentos em Desenvolvimento Web com HTML e CSS, lógica de programação com a linguagem C e explorei um pouco do mundo de Game Dev com auxílio da Godot.
 
-Atualmente, estudo linguagens de alto nível, como Python e JavaScript, desenvolvendo GUIs e integrando-as aos conhecimentos de front-end desenvolvidos anteriormente. Além disso, venho aprendendo mais sobre banco de dados e aprimorando minha familiaridade com a Godot e GDScript.
+Atualmente, estudo linguagens de alto nível, como Python e JavaScript, desenvolvendo GUIs e integrando-as aos conhecimentos de front-end desenvolvidos anteriormente. Além disso, venho aprendendo mais sobre banco de dados e aumentando minha familiaridade com a Godot e GDScript.
 
 <a href="https://www.linkedin.com/in/sophia-sales"><img src="https://upload.wikimedia.org/wikipedia/commons/a/aa/LinkedIn_2021.svg" height="30" alt="link LinkedIn"></a>
 

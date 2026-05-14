@@ -19,6 +19,7 @@ Atualmente, estudo linguagens de alto nível, como Python e JavaScript, desenvol
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
   <img width="12" />
+  <img src="https://static.vecteezy.com/system/resources/previews/027/127/463/non_2x/javascript-logo-javascript-icon-transparent-free-png.png" height="40" alt="javascript logo">
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Godot_icon.svg" height="45" alt="godot logo"  />
 </div>
 

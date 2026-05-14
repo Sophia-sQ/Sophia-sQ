@@ -19,8 +19,9 @@ Atualmente, estudo linguagens de alto nível, como Python e JavaScript, desenvol
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
   <img width="12" />
-  <img src="https://static.vecteezy.com/system/resources/previews/027/127/463/non_2x/javascript-logo-javascript-icon-transparent-free-png.png" height="40" alt="javascript logo">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Godot_icon.svg" height="45" alt="godot logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/250px-Unofficial_JavaScript_logo_2.svg.png?utm_source=commons.wikimedia.org&utm_campaign=parser&utm_content=thumbnail" height="40" alt="javascript logo">
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Godot_icon.svg/3840px-Godot_icon.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" height="45" alt="godot logo"  />
 </div>
 
 # Principais projetos

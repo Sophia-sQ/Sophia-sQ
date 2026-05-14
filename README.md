@@ -3,7 +3,7 @@ Meu nome é Sophia e atualmente sou aluna do Instituto Federal de São Paulo, no
 
 Atualmente, estudo linguagens de alto nível, como Python e JavaScript, desenvolvendo GUIs e integrando-as aos conhecimentos de front-end desenvolvidos anteriormente. Além disso, venho aprendendo mais sobre banco de dados e aumentando minha familiaridade com a Godot e GDScript.
 
-<a href="https://www.linkedin.com/in/sophia-sales"><img src="https://upload.wikimedia.org/wikipedia/commons/a/aa/LinkedIn_2021.svg" height="30" alt="link LinkedIn"></a>
+<a href="https://www.linkedin.com/in/sophia-sales" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/a/aa/LinkedIn_2021.svg" height="30" alt="link LinkedIn"></a>
 
 <h3 align="left">🛠 Ferramentas</h3>
 

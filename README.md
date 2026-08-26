@@ -11,7 +11,7 @@ Atualmente, estudo linguagens de alto nível, como Python e JavaScript, desenvol
 
 <div align="left">
 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1920px-C_Programming_Language.svg.png" height="40" alt="cplusplus logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1920px-ISO_C%2B%2B_Logo.svg.png" height="40" alt="cplusplus logo"  />
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1920px-C_Programming_Language.svg.png" height="40" alt="c logo"  />
   <img width="12" />
